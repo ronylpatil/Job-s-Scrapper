@@ -5,4 +5,4 @@ Built an API using fastAPI to fetch top-5 recent job's from naukri.com portal us
   <img class="center" src ="/sample/img.png" alt="Drawing" style="width : 800px; height : 1400px">
 </p>
 
-![ScreenShot](/sample/img.png)
+<!-- ![ScreenShot](/sample/img.png) -->
